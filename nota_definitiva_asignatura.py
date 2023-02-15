@@ -11,5 +11,4 @@ bi = int(input("digite el valor de bi: "))
 nd = (0.3*np) + (0.3*nc) + (0.1*na) + (0.1*au) + (0.2*bi)
 
 #output
-
 print("la nota definitiva de " + str(nd))
